@@ -1,2 +1,1 @@
-# PrepCourse-Readme
-Este repositorio es del Modulo2 del prep course de Henry, con el archivo Readme.md
+prueba de como crear un repositorio y clonarlo desde github a mi computadora.
